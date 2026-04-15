@@ -6,7 +6,7 @@ def response_engine(secure_report):
     This is the ACTOR. It looks at the secured data and
     decides on a cognitive intervention without knowing the user's name.
     """
-    print("\n[🎬 AGENTIC RESPONSE ENGINE STARTING]")
+    print("\n[AGENTIC RESPONSE ENGINE STARTING]")
     time.sleep(1)
 
     # Logic-based decision making (Agentic Behavior)
@@ -15,7 +15,7 @@ def response_engine(secure_report):
     elif "Moderate" in secure_report:
         intervention = "⚠️ MEDIUM PRIORITY: Reducing non-essential notifications to stabilize focus."
     else:
-        intervention = "✅ LOW PRIORITY: User state stable. Continuing background monitoring."
+        intervention = " LOW PRIORITY: User state stable. Continuing background monitoring."
 
     return intervention
 
@@ -32,7 +32,7 @@ if __name__ == "__main__":
     print("FINAL AGENTIC DECISION:")
     print(action)
     print("="*50)
-    print("\n[✔] End-to-End Governance & Action Demo Complete.")
+    print("\n End-to-End Governance & Action Demo Complete.")
 
     # --- THE LOGGING PART (Must be indented 4 spaces!) ---
     try:
