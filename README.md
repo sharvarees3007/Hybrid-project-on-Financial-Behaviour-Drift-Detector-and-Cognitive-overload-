@@ -79,4 +79,8 @@ SOURCE database/HP\_1\_LOGIC.sql;
    ## **📄 License**
 
    This project is licensed under the MIT License.
+   # 📺 Project Demo
+[![CogniGuard Demo Video](https://img.youtube.com/vi/A4weqaOXJks/maxresdefault.jpg)](https://www.youtube.com/watch?v=A4weqaOXJks)
+
+*Click the image above to watch the demo on YouTube.*
 
