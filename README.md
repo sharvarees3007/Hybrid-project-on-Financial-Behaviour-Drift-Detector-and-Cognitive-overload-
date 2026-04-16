@@ -2,9 +2,9 @@
 
 <h1>🛡️ CogniGuard</h1>
 
-<p><b>Financial Behaviour Drift Detector \& Cognitive Overload System</b></p>
+<p><b>Financial Behaviour Drift Detector & Cognitive Overload System</b></p>
 
-<p><i>Hybrid Data Governance \& Privacy-Preserving Agentic Interventions</i></p>
+<p><i>Hybrid Data Governance & Privacy-Preserving Agentic Interventions</i></p>
 
 <div>
 
